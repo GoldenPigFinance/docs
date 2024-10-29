@@ -36,13 +36,3 @@
 
 
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-* [Test markdown](basics/test.md)
-
-## Admin
-* [Đồng bộ cửa hàng](admin/dongbocuahang.md)
