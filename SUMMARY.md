@@ -5,8 +5,8 @@
 
 
 ##	Admin (Người quản trị ví)
-* [Đồng bộ cửa hàng](admin/editor.md)
-* [Mở ví công ty](admin/markdown.md)
+* [Đồng bộ cửa hàng](admin/dongbocuahang.md)
+* [Mở ví công ty](admin/movicongty.md)
 * [Tạo nhóm khách hàng](admin/images-and-media.md)
 * [Phát hành Point](admin/interactive-blocks.md)
 * [Quản ly ưu đãi](admin/openapi.md)
