@@ -7,7 +7,7 @@ Khi người dùng có tài khoản đăng nhập trên website **Heo Vàng CMS*
 
 1. Quy trình đồng bộ cửa hàng:
 
-B1: Chủ thương hiệu đăng nhập tài khoản và mật khẩu được cấp tại website Heovang Merchant: https://business.heovang.vn/#login
+B1: Chủ thương hiệu đăng nhập tài khoản và mật khẩu được cấp tại website Heovang Merchant: [https://business.heovang.vn/#login](https://business.heovang.vn/#login)
 
  ![example](/images/admin/login.png)
 
@@ -20,6 +20,7 @@ B2: Chủ thương hiệu thực hiện đồng bộ cửa hàng trên Heovang M
  ![example](/images/admin/dongbocuahang.png)
 
 Video Youtube - Đồng bộ cửa hàng
+
 [![Xem video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
 
