@@ -16,3 +16,6 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 * [Test markdown](basics/test.md)
+
+## Admin
+* [Đồng bộ cửa hàng](Admin/dongbocuahang.md)
