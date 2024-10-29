@@ -5,13 +5,13 @@
 
 
 ##	Admin (Người quản trị ví)
-* [Đồng bộ cửa hàng](Admin/editor.md)
-* [Mở ví công ty](Admin/markdown.md)
-* [Tạo nhóm khách hàng](Admin/images-and-media.md)
-* [Phát hành Point](Admin/interactive-blocks.md)
-* [Quản ly ưu đãi](Admin/openapi.md)
-* [Quản lý món ăn](Admin/integrations.md)
-* [Quản lý tài khoản và thẻ](Admin/test.md)
+* [Đồng bộ cửa hàng](admin/editor.md)
+* [Mở ví công ty](admin/markdown.md)
+* [Tạo nhóm khách hàng](admin/images-and-media.md)
+* [Phát hành Point](admin/interactive-blocks.md)
+* [Quản ly ưu đãi](admin/openapi.md)
+* [Quản lý món ăn](admin/integrations.md)
+* [Quản lý tài khoản và thẻ](admin/test.md)
 
 ## Thu ngân
 * [Nạp tiền](cashier/editor.md)

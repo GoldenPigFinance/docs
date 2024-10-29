@@ -16,6 +16,8 @@ B2: Chủ thương hiệu thực hiện đồng bộ cửa hàng trên Heovang M
 -	Tại màn hình danh sách **cửa hàng**, người dùng nhấn **Đồng bộ cửa hàng**. 
  ![example](/images/admin/dongbocuahang.png)
 
+ <iframe width="914" height="514" src="https://www.youtube.com/embed/jJky0Ws9xKg" title="Cách viết tài liệu Markdown (file README.md) trên Visual Studio Code." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
