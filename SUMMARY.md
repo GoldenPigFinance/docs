@@ -16,8 +16,8 @@
 * [Thẻ](admin/the.md)
 ## Thu ngân
 * [Nạp tiền](cashier/topup.md)
-* [Giao dịch](cashier/giaodich.md)
-* [Đơn hàng](cashier/images-and-media.md)
+<!-- * [Giao dịch](cashier/giaodich.md)
+* [Đơn hàng](cashier/images-and-media.md) -->
 * [Tài khoản người dùng](cashier/interactive-blocks.md)
 * [Rút tiền](cashier/vithanhtoan.md)
 * [Thẻ](cashier/integrations.md)
