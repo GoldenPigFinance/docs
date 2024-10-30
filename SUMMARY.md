@@ -18,10 +18,10 @@
 * [Nạp tiền](cashier/topup.md)
 <!-- * [Giao dịch](cashier/giaodich.md)
 * [Đơn hàng](cashier/images-and-media.md) -->
-* [Tài khoản người dùng](cashier/interactive-blocks.md)
+* [Tài khoản người dùng](cashier/tknguoidung.md)
 * [Rút tiền](cashier/vithanhtoan.md)
-* [Thẻ](cashier/integrations.md)
-* [Báo cáo giao dịch](cashier/test.md)
+* [Thẻ](cashier/the.md)
+* [Báo cáo giao dịch](cashier/baocaogd.md)
 
 ## Kế toán
 * [Báo cáo](cashier/integrations.md)
