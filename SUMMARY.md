@@ -12,10 +12,8 @@
 * [Quản ly ưu đãi](admin/quanlyuudai.md)
 * [Quản lý món ăn](admin/integrations.md)
 * [Quản lý tài khoản và thẻ]()
-* * [Tài khoản quản lý](admin/integrations.md)
-* * [Tài khoản người dùng](admin/integrations.md)
-* * [Ví thanh toán](admin/integrations.md)
-* * [Thẻ](admin/integrations.md)
+  * [Tài khoản quản lý](admin/integrations.md)
+    * [Chi tiết tài khoản](admin/account-details.md)
 ## Thu ngân
 * [Nạp tiền](cashier/editor.md)
 * [Giao dịch](cashier/markdown.md)
