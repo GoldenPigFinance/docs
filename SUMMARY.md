@@ -29,8 +29,8 @@
 * * [Thống kê](cashier/test.md)
 
 ## User ( người dùng)
-* [Đăng ký](user/integrations.md)
-* [Quên mật khẩu](user/test.md)
+* [Đăng ký](user/dangky.md)
+* [Quên mật khẩu](user/quenmk.md)
 * [Nạp tiền](user/integrations.md)
 * [Chuyển tiền](user/test.md)
 * [Đặt hàng](user/test.md)
