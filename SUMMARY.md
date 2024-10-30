@@ -19,7 +19,7 @@
 * [Giao dịch](cashier/giaodich.md)
 * [Đơn hàng](cashier/images-and-media.md)
 * [Tài khoản người dùng](cashier/interactive-blocks.md)
-* [Rút tiền](cashier/openapi.md)
+* [Rút tiền](cashier/vithanhtoan.md)
 * [Thẻ](cashier/integrations.md)
 * [Báo cáo giao dịch](cashier/test.md)
 
