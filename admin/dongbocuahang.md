@@ -13,15 +13,13 @@ B1: Chủ thương hiệu đăng nhập tài khoản và mật khẩu được c
 
 B2: Chủ thương hiệu thực hiện đồng bộ cửa hàng trên Heovang Merchant:
 -	Tại màn hình trang chủ, nhấn **Quản trị đơn vị**.
--	Sau đó, người dùng nhấn **cửa hàng**.
--	Tại màn hình danh sách **cửa hàng**, người dùng nhấn **Đồng bộ cửa hàng**. 
+-	Sau đó, người dùng nhấn **Cửa hàng**.
+-	Tại màn hình danh sách **Cửa hàng**, người dùng nhấn **Đồng bộ cửa hàng**. 
 
 
  ![Đồng bộ cửa hàng](/images/admin/dongbocuahang.png)
-
-Video Youtube - Đồng bộ cửa hàng
-
-[![Xem video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  
+
+
 
 

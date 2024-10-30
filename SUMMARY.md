@@ -24,7 +24,6 @@
 
 ## Kế toán
 * [Báo cáo](cashier/integrations.md)
-** [Báo cáo người dùng](cashier/integrations.md)
 * [Thống kê](cashier/test.md)
 
 ## User ( người dùng)
