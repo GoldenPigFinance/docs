@@ -5,7 +5,7 @@
 Khi người dùng có tài khoản đăng nhập trên website **Heo Vàng CMS**	thì cũng có thể đăng nhập trên app **Heo Vàng**.
 
 
-1. Quy trình nạp tiền cho khách hàng:
+1. Quy trình rút tiền cho khách hàng:
 
 B1: Thu ngân đăng nhập tài khoản và mật khẩu được cấp tại website Heovang Merchant: [https://business.heovang.vn/cashier#login](https://business.heovang.vn/cashier#login)
 
