@@ -31,8 +31,8 @@
 ## User ( người dùng)
 * [Đăng ký](user/dangky.md)
 * [Quên mật khẩu](user/quenmk.md)
-* [Nạp tiền](user/integrations.md)
-* [Chuyển tiền](user/test.md)
+* [Nạp tiền](user/naptien.md)
+* [Chuyển tiền](user/chuyentien.md)
 * [Đặt hàng](user/test.md)
 
 
