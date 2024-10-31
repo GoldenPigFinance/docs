@@ -24,9 +24,8 @@
 * [Báo cáo giao dịch](cashier/baocaogd.md)
 
 ## Kế toán
-* [Báo cáo](cashier/integrations.md)
-* [Thống kê](cashier/test.md)
-* * [Thống kê](cashier/test.md)
+* [Báo cáo](cashier/baocao.md)
+* [Thống kê](cashier/thongke.md)
 
 ## User ( người dùng)
 * [Đăng ký](user/dangky.md)
