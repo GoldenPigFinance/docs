@@ -2,7 +2,9 @@
 ## Quy trình báo cáo giao dịch
 
 Khách hàng có thể tải ứng dụng Heo Vàng trên CH Play và App Store (iOS).
+
 Link CH Play: [https://play.google.com/store/apps/details?id=io.goldenpig.primepay&hl=vi&gl=US](https://play.google.com/store/apps/details?id=io.goldenpig.primepay&hl=vi&gl=US)
+
 Link App Store(iOS):  [https://apps.apple.com/vn/app/heovang/id1612598772](https://apps.apple.com/vn/app/heovang/id1612598772)
 
 1. Đăng ký tài khoản trên Heo Vàng.

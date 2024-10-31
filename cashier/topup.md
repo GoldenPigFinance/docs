@@ -25,7 +25,7 @@ B3: Nạp tiền
 
  ![Màn hình mở ca thành công](/images/cashier/mhmoca.png)
 
-- Khi nhấn nạp tiền, màn hình **Tạo phiếu nạp tiền sẽ hiển thị, thu ngân nhập số tiền khách hàng muốn nạp.
+- Khi nhấn nạp tiền, màn hình **Tạo phiếu nạp tiền** sẽ hiển thị, thu ngân nhập số tiền khách hàng muốn nạp.
 
  ![Màn hình mở ca thành công](/images/cashier/taophieunaptien.png)
 
