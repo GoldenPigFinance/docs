@@ -10,7 +10,7 @@ Link App Store(iOS):  [https://apps.apple.com/vn/app/heovang/id1612598772](https
 1. Đăng ký tài khoản trên Heo Vàng.
 
 B1: Khách hàng tải app Heo Vàng từ [android](https://play.google.com/store/apps/details?id=io.goldenpig.primepay&hl=vi&gl=US) hoặc [iphone](https://apps.apple.com/vn/app/heovang/id1612598772) từ link trên.
-B2: khách hàng vào trang đăng nhập trên app.
+B2: Khách hàng vào trang đăng nhập trên app.
 
  ![Màn hình đăng nhập app Heo Vàng](/images/user/dangnhap.jpg)
 
@@ -20,5 +20,5 @@ B2: khách hàng vào trang đăng nhập trên app.
 
  B3: Khách hàng nhập đầy đủ thông tin và nhấn **Đăng ký**, sẽ có thông báo thành công và trở về màn hình đăng nhập.
 
- ![Màn hình đăng nhập app Heo Vàng](/images/user/dkytc.jpg)
+ ![Màn hình đăng ký thành công](/images/user/dkytc.jpg)
 
