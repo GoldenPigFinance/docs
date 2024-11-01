@@ -40,7 +40,7 @@ Các khái niệm cơ bản:
 
 8. **Thanh toán**: Thanh toán là hành động sử dụng tiền hoặc point trong ví thanh toán để hoàn tất giao dịch mua sắm hoặc dịch vụ. Quá trình này có thể được thực hiện thông qua ví điện tử, thẻ ngân hàng, hoặc point tích lũy, tùy theo quy định của hệ thống thanh toán.
 
-Hợp đồng mẫu Heo Vàng: [link hợp đồng mẫu](https://docs.google.com/document/d/1_OJhK0BAhi8Mbo_s0DGLg8qqtxOl6x9o/edit)
+### **Hợp đồng mẫu Heo Vàng**: [link hợp đồng mẫu](https://docs.google.com/document/d/1_OJhK0BAhi8Mbo_s0DGLg8qqtxOl6x9o/edit)
 
 ### Hướng dẫn sử dụng
 
