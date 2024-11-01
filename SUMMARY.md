@@ -34,5 +34,10 @@
 * [Chuyển tiền](user/chuyentien.md)
 * [Đặt hàng](user/test.md)
 
+## Thanh toán trên POS 
+* [Các bước thanh toán HeovangScan ](user/dangky.md)
+* [Các bước thanh toán HeovangQr4 ](user/dangky.md)
+
+
 
 
