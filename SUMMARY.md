@@ -15,11 +15,9 @@
 * [Ví thanh toán](admin/vithanhtoan.md)
 * [Thẻ](admin/the.md)
 ## Thu ngân
-* [Nạp tiền](cashier/topup.md)
-<!-- * [Giao dịch](cashier/giaodich.md)
-* [Đơn hàng](cashier/images-and-media.md) -->
+* [Nạp Point](cashier/topup.md)
 * [Tài khoản người dùng](cashier/tknguoidung.md)
-* [Rút tiền](cashier/vithanhtoan.md)
+* [Rút Point](cashier/vithanhtoan.md)
 * [Thẻ](cashier/the.md)
 * [Báo cáo giao dịch](cashier/baocaogd.md)
 
@@ -35,8 +33,8 @@
 * [Đặt hàng](user/test.md)
 
 ## Thanh toán trên POS 
-* [Các bước thanh toán HeovangScan ](user/heovangScan.md)
-* [Các bước thanh toán HeovangQr4 ](user/heovangQr4.md)
+* [Các bước thanh toán HeoVangScan ](user/heovangScan.md)
+* [Các bước thanh toán HeoVangQr4 ](user/heovangQr4.md)
 
 
 

@@ -28,7 +28,7 @@ Các khái niệm cơ bản:
 
 2.  **Ví thanh toán**: Ví thanh toán là tài khoản kỹ thuật số mà người dùng sử dụng để thực hiện các giao dịch như thanh toán hàng hóa, dịch vụ hoặc nhận point. Ví thanh toán thường liên kết với tài khoản ngân hàng hoặc thẻ của người dùng để nạp tiền hoặc rút tiền từ hệ thống.
 
-3. **Thẻ**: Thẻ ở đây thường là thẻ thanh toán (credit card, debit card) hoặc thẻ trả trước (prepaid card). Người dùng có thể liên kết thẻ này với ví thanh toán để dễ dàng thực hiện các giao dịch. Ngoài ra, thẻ cũng có thể là thẻ thành viên trong các hệ thống điểm thưởng (point system).
+3. **Thẻ**: Thẻ ở đây thường là thẻ thanh toán (thẻ cứng). Người dùng có thể liên kết thẻ này với ví thanh toán để dễ dàng thực hiện các giao dịch. Ngoài ra, thẻ cũng có thể là thẻ thành viên trong các hệ thống điểm thưởng (point system).
 
 4. **Phát hành point**: Đây là hành động công ty cấp point cho người dùng. Việc phát hành point có thể thực hiện khi khách hàng mua hàng, tham gia các chương trình khuyến mãi, hoặc đáp ứng một số điều kiện do công ty đưa ra. Point được phát hành thường dùng để đổi lấy sản phẩm, dịch vụ hoặc giảm giá trong các giao dịch.
 

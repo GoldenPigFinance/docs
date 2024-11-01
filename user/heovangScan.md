@@ -42,7 +42,7 @@ B3: Vào màn chi tiết thẻ, khách hàng cho nhân viết quét mã QR Code 
 
 ![Màn hình chi tiết thẻ](/images/user/mhctthe.jpg)
 
-B4: Khí thanh toán xong khách hàng có thông báo thanh toán cho đơn hàng thành công trên app Heo Vàng..
+B4: Khí thanh toán xong khách hàng có thông báo thanh toán cho đơn hàng thành công trên app Heo Vàng.
 
 
  
