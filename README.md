@@ -20,7 +20,8 @@ layout:
 
 # Heo Vàng
 
-Hướng dẫn sử dụng Hệ thống Ví tích điểm Heo Vàng
+Hướng dẫn sử dụng Hệ thống Ví tích điểm Heo Vàng.
+
 Các khái niệm cơ bản:
 
 1.  **Ví công ty**: Đây là một tài khoản hoặc ví kỹ thuật số do công ty sở hữu và quản lý. Ví này thường được sử dụng để lưu trữ tài sản kỹ thuật số của công ty như tiền hoặc point (điểm thưởng). Ví công ty có thể được dùng để thực hiện các giao dịch nội bộ, thanh toán cho các dịch vụ, hoặc phát hành point cho khách hàng.
@@ -39,7 +40,7 @@ Các khái niệm cơ bản:
 
 8. **Thanh toán**: Thanh toán là hành động sử dụng tiền hoặc point trong ví thanh toán để hoàn tất giao dịch mua sắm hoặc dịch vụ. Quá trình này có thể được thực hiện thông qua ví điện tử, thẻ ngân hàng, hoặc point tích lũy, tùy theo quy định của hệ thống thanh toán.
 
-Hợp đồng mẫu Heo Vàng: [[link hợp đồng mẫu](https://docs.google.com/document/d/1_OJhK0BAhi8Mbo_s0DGLg8qqtxOl6x9o/edit)](https://docs.google.com/document/d/1_OJhK0BAhi8Mbo_s0DGLg8qqtxOl6x9o/edit)
+Hợp đồng mẫu Heo Vàng: [link hợp đồng mẫu](https://docs.google.com/document/d/1_OJhK0BAhi8Mbo_s0DGLg8qqtxOl6x9o/edit)
 
 ### Hướng dẫn sử dụng
 
