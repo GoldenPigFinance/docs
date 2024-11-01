@@ -35,8 +35,8 @@
 * [Đặt hàng](user/test.md)
 
 ## Thanh toán trên POS 
-* [Các bước thanh toán HeovangScan ](user/dangky.md)
-* [Các bước thanh toán HeovangQr4 ](user/dangky.md)
+* [Các bước thanh toán HeovangScan ](user/heovangScan.md)
+* [Các bước thanh toán HeovangQr4 ](user/heovangQr4.md)
 
 
 

@@ -20,3 +20,4 @@ B2: Thẻ người dùng
 - Khi chủ thương hiệu chọn thẻ người dùng bất kì, màn hình chi tiết thẻ người dùng hiển thị và thu ngân có thể xem được.
 
 ![Màn hình chi tiết thẻ người dùng](/images/cashier/cntnd.png)
+

@@ -23,3 +23,5 @@ B3: Tạo mới thẻ người dùng
 
 
 ![Màn hình tạo mới thẻ người dùng](/images/admin/tmtnd.png)
+
+> Ghi chú: Chủ thương hiệu muốn xuất mã QR Code của khách hàng nhanh chóng, chủ thương hiệu chọn **Tạo QR Code**, khi đó sẽ có 1 file QR Code của khách hàng được tải về máy của chủ sở hữu. 
