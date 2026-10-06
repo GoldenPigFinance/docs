@@ -39,7 +39,7 @@ Tại màn hình **Danh sách Ví Thanh Toán**, chọn nút **Import**.
 
 Tại màn hình **Nhập danh sách Ví thanh toán**, chọn **Tải file mẫu** để tải biểu mẫu Excel về máy.
 
-Bạn cũng có thể tải biểu mẫu tại đây: [Tải file Excel mẫu](../assets/templates/HEOVANG_CREATE_ACCOUNT.xlsx).
+Bạn cũng có thể tải biểu mẫu tại đây: [Tải file Excel mẫu](https://raw.githubusercontent.com/GoldenPigFinance/docs/main/assets/templates/HEOVANG_CREATE_ACCOUNT.xlsx).
 
 ### Bước 3: Chuẩn bị dữ liệu trong file Excel
 
@@ -83,6 +83,6 @@ Sau khi hoàn tất, quay lại **Danh sách Ví Thanh Toán** để kiểm tra 
 ### Video hướng dẫn
 
 <video controls preload="metadata" style="width: 100%; max-width: 900px;">
-  <source src="../assets/videos/huong-dan-tao-vi-thanh-toan-hang-loat.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ phát video. Bạn có thể <a href="../assets/videos/huong-dan-tao-vi-thanh-toan-hang-loat.mp4">tải video hướng dẫn</a> để xem.
+  <source src="https://raw.githubusercontent.com/GoldenPigFinance/docs/main/assets/videos/huong-dan-tao-vi-thanh-toan-hang-loat.mp4" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ phát video. Bạn có thể <a href="https://raw.githubusercontent.com/GoldenPigFinance/docs/main/assets/videos/huong-dan-tao-vi-thanh-toan-hang-loat.mp4">tải video hướng dẫn</a> để xem.
 </video>
